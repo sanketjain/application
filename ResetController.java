@@ -1,6 +1,5 @@
 package com.aitacs.ams.controller;
 
-//Code developed by Sanket
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
